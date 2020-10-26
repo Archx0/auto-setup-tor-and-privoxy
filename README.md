@@ -1,6 +1,7 @@
 how to used 
 
-1- install tor 
+1- install tor and privoxy
+
 $ apt install tor && apt install privoxy
 
 2- downloade tor_setUp.sh 
